@@ -1,5 +1,6 @@
 # Playlist sync
 An all in one python script that handles syncing a youtube playlist to your phone.
+
 Made because I have a deep seated need for offline access to my trash sadgirl music at all times and refuse to pay google for the privilege.
 
 Handles:
@@ -16,19 +17,26 @@ Does not currently handle:
 Anything that can run python -> Android.
 
 # Does not support
-iPhones
+iPhones.
+
 iPhone users can pay $29.99 a month for iTunes ultra cloud golden special limited edition as is the natural order of the universe.
 
 ## Requirements
 ### yt-dlp
 https://github.com/yt-dlp/yt-dlp
+
 Needed to download videos.
+
 NB: You may need to keep this updated as youtube continue fighting their shadow war against downloader utilities.
+
 ### Python
 https://www.python.org/downloads/
+
 Needed for yt-dlp.
+
 ### adb
 https://developer.android.com/tools/releases/platform-tools
+
 Needed to copy files onto your android phone.
 
 ## Setup
