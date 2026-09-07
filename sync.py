@@ -68,7 +68,6 @@ def cleanup_removed(archive, do_removal = True):
 			playlist_ids = id_check_process.stdout.read().splitlines()
 			break
 
-	# print(f"playlist_ids: {playlist_ids}")
 	for pair in archive:
 		archive_id = pair[1]
 		if archive_id in playlist_ids:
