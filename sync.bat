@@ -1,1 +1,1 @@
-python3 sync.py
+python sync.py & pause
