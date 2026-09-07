@@ -1,0 +1,11 @@
+-- Playlist URL from youtube or any other site compatible with yt-dlp.
+playlist_url=https://www.youtube.com/playlist?list=PL68AC80CBF3649BBB
+
+-- The path to sync the playlist to on your android phone. Must go via /storage/emulated/ to avoid permissions issues.
+phone_path=/storage/emulated/0/Music/playlist
+
+-- The format to save the files as, see yt-dlp documentation for a list of valid formats.
+format=mp3
+
+-- Where to store the downloaded tracks
+storage_path=./Downloaded
