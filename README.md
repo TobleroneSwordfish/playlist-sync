@@ -14,7 +14,10 @@ Does not currently handle:
 - Automatic dependency setup
 
 ## Supports
+### Operating systems
 Anything that can run python -> Android.
+### Sources
+Anything that yt-dlp supports.
 
 ## Does not support
 iPhones.
