@@ -16,7 +16,7 @@ Does not currently handle:
 ## Supports
 Anything that can run python -> Android.
 
-# Does not support
+## Does not support
 iPhones.
 
 iPhone users can pay $29.99 a month for iTunes ultra cloud golden special limited edition as is the natural order of the universe.
@@ -32,7 +32,7 @@ NB: You may need to keep this updated as youtube continue fighting their shadow 
 ### Python
 https://www.python.org/downloads/
 
-Needed for yt-dlp.
+Needed for yt-dlp. Use whichever python version is currently recommended by them.
 
 ### adb
 https://developer.android.com/tools/releases/platform-tools
